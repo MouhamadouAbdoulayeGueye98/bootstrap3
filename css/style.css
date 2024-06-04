@@ -132,7 +132,6 @@ button{
     -webkit-transition: all .2S linear;
     -o-transition: all .2s linear;
     transition: all .2s linear;
-    background-color: var(--bg-dark-blue);
 }
 .header-wrapper .navbar-brand img{
     max-width: 6.5rem;
